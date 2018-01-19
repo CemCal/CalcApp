@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcApp", "CalcApp\CalcApp.csproj", "{89D676D0-C3E1-46C5-A84E-F27EEFE4DA25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{01BE0932-D253-442C-ABA7-DDFE387A070F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89D676D0-C3E1-46C5-A84E-F27EEFE4DA25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89D676D0-C3E1-46C5-A84E-F27EEFE4DA25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89D676D0-C3E1-46C5-A84E-F27EEFE4DA25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89D676D0-C3E1-46C5-A84E-F27EEFE4DA25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01BE0932-D253-442C-ABA7-DDFE387A070F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01BE0932-D253-442C-ABA7-DDFE387A070F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01BE0932-D253-442C-ABA7-DDFE387A070F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01BE0932-D253-442C-ABA7-DDFE387A070F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {908934C7-473C-4436-9C74-DEFC673A80D4}
+	EndGlobalSection
+EndGlobal
